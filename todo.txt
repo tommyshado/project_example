@@ -1,0 +1,6 @@
+* Too much blue
+* Add pictures
+* Space around the edges and down
+* Move the pizza text to the center
+* Change font
+* make rounded boarder
